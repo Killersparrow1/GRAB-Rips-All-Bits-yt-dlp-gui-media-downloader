@@ -2,7 +2,8 @@
 
 A feature-rich GTK-based GUI frontend for yt-dlp, designed to make downloading online media simple and efficient.
 
-![GRAB Screenshot](https://i.postimg.cc/3wptx0W5/Edited-Screenshot-From-2025-08-20-23-22-41.png)
+![GRAB Screenshot](https://i.postimg.cc/C1v0m204/Edited-Screenshot-From-2025-08-20-23-33-47.png)
+![GRAB Screenshot](https://i.postimg.cc/1XfQTK51/Edited-Screenshot-From-2025-08-20-23-34-04.png)
 
 ## Origin Story
 
