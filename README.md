@@ -138,7 +138,7 @@ Run the application:
 Or run with Python directly:
 
 ``` bash
-python3 yt-dlp_gui.py
+python3 ytdlp_gui.py
 ```
 
 ## Usage
