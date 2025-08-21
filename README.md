@@ -3,7 +3,6 @@
 A feature-rich GTK-based GUI frontend for yt-dlp, designed to make downloading online media simple and efficient.
 
 ![GRAB Screenshot](https://i.postimg.cc/C1v0m204/Edited-Screenshot-From-2025-08-20-23-33-47.png)
-![GRAB Screenshot](https://i.postimg.cc/1XfQTK51/Edited-Screenshot-From-2025-08-20-23-34-04.png)
 
 ## Origin Story
 
@@ -111,10 +110,10 @@ pip3 install requests
 
 ### Windows
 
--   Install Python from python.org\
--   Install GTK3 from gtk.org\
--   Install WebKitGTK (included in GTK3 bundle)\
--   Install yt-dlp:\
+-   Install Python from python.org
+-   Install GTK3 from gtk.org
+-   Install WebKitGTK (included in GTK3 bundle)
+-   Install yt-dlp:
 
 ``` cmd
 pip install yt-dlp requests
@@ -146,39 +145,39 @@ python3 grab.py
 
 ### Download Media:
 
--   Enter the URL of the video or playlist\
--   Select media type (Video or Audio)\
--   Choose quality and format\
+-   Enter the URL of the video or playlist
+-   Select media type (Video or Audio)
+-   Choose quality and format
 -   Click "Download" or "Add to Queue"
 
 ### Cookie Extraction:
 
--   Navigate to the "Cookie Extraction" tab\
--   Enter a website URL and click "Open Browser"\
--   Login to the website in the built-in browser\
+-   Navigate to the "Cookie Extraction" tab
+-   Enter a website URL and click "Open Browser"
+-   Login to the website in the built-in browser
 -   Click "Extract Cookies" to save authentication cookies
 
 ### Settings:
 
--   Configure default download options\
--   Choose theme preferences\
+-   Configure default download options
+-   Choose theme preferences
 -   Set default download location
 
 ## Troubleshooting
 
 ### Common Issues
 
-**"WebKit2 not found" error:**\
-Make sure you've installed the WebKitGTK development packages\
-- On Fedora: `sudo dnf install webkit2gtk3-devel`\
+**"WebKit2 not found" error:**
+Make sure you've installed the WebKitGTK development packages
+- On Fedora: `sudo dnf install webkit2gtk3-devel`
 - On Ubuntu: `sudo apt install gir1.2-webkit2-4.0`
 
-**Download failures:**\
-- Ensure yt-dlp is installed and updated: `yt-dlp -U`\
+**Download failures:**
+- Ensure yt-dlp is installed and updated: `yt-dlp -U`
 - Check your internet connection
 
-**Cookie extraction not working:**\
-- Some websites may have protections against cookie extraction\
+**Cookie extraction not working:**
+- Some websites may have protections against cookie extraction
 - Try manually exporting cookies from your browser
 
 ### Updating yt-dlp
@@ -197,14 +196,14 @@ pip install --upgrade yt-dlp
 
 ### Core Technologies
 
--   yt-dlp - A feature-rich command-line audio/video downloader\
--   GTK - The GIMP Toolkit for creating graphical user interfaces\
--   PyGObject - Python bindings for GObject-based libraries\
--   WebKitGTK - Web content engine for GTK
+-   [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
+-   [GTK](https://www.gtk.org/) - The GIMP Toolkit for creating graphical user interfaces
+-   [PyGObject](https://pygobject.readthedocs.io/) - Python bindings for GObject-based libraries
+-   [WebKitGTK](https://webkitgtk.org/) - Web content engine for GTK
 
 ### Python Libraries
 
--   Requests - HTTP library for Python
+-   [Requests](https://docs.python-requests.org/) - HTTP library for Python
 
 ### Special Thanks
 
@@ -226,16 +225,16 @@ experience.
 This software is provided "as is" for educational and personal use only.
 The developers and contributors:
 
--   Do not endorse or encourage copyright infringement\
--   Are not responsible for how users employ this software\
+-   Do not endorse or encourage copyright infringement
+-   Are not responsible for how users employ this software
 -   Cannot provide legal advice regarding copyright matters
 
 ### Copyright Notice
 
 You are solely responsible for ensuring that your use of this software
-complies with:\
-- All applicable laws and regulations in your jurisdiction\
-- The terms of service of any websites you access\
+complies with:
+- All applicable laws and regulations in your jurisdiction
+- The terms of service of any websites you access
 - Copyright laws and intellectual property rights
 
 Downloading copyrighted material without proper authorization may
@@ -251,9 +250,9 @@ and we have no control over the content available on these platforms.
 ### Limitation of Liability
 
 By using this software, you agree that the developers and contributors
-shall not be held liable for:\
-- Any damages or losses resulting from the use of this software\
-- Any legal issues arising from misuse of this software\
+shall not be held liable for:
+- Any damages or losses resulting from the use of this software
+- Any legal issues arising from misuse of this software
 - Any violations of terms of service of third-party platforms
 
 If you choose to use this software, you do so at your own risk and are
