@@ -126,19 +126,19 @@ Clone or download this repository
 Make the script executable:
 
 ``` bash
-chmod +x grab.py
+chmod +x ytdlp_gui.py
 ```
 
 Run the application:
 
 ``` bash
-./grab.py
+./ytdlp_gui.py
 ```
 
 Or run with Python directly:
 
 ``` bash
-python3 grab.py
+python3 yt-dlp_gui.py
 ```
 
 ## Usage
