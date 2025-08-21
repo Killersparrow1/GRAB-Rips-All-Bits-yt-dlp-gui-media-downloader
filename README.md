@@ -1,6 +1,6 @@
 # GRAB - Rips All Bits
 
-A feature-rich GTK-based GUI frontend for yt-dlp, designed to make downloading online media simple and efficient.
+A GTK-based GUI frontend for yt-dlp. Download videos, audio, and playlists easily with cookie extraction, SponsorBlock, and GNOME integration.
 
 ![GRAB Screenshot](https://i.postimg.cc/C1v0m204/Edited-Screenshot-From-2025-08-20-23-33-47.png)
 
