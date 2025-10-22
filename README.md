@@ -4,19 +4,6 @@ A GTK-based GUI frontend for yt-dlp. Download videos, audio, and playlists easil
 
 ![GRAB Screenshot](https://i.postimg.cc/C1v0m204/Edited-Screenshot-From-2025-08-20-23-33-47.png)
 
-## Origin Story
-
-This application was born out of necessity! As a Fedora GNOME user who
-needed a simple GUI for media downloading, the original creator found
-existing solutions either too complex or lacking features. With no
-formal coding background but plenty of enthusiasm, they embarked on
-creating GRAB - a tool that works seamlessly with the GNOME desktop
-environment while providing all the functionality needed for media
-downloading.
-
-What started as a personal project to solve a specific need has now been
-shared with the community in hopes that others might find it useful too!
-
 ## Features
 
 -   **Easy Media Downloading**: Download videos and audio from hundreds
